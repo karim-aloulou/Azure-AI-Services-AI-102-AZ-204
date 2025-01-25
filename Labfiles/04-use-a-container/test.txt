@@ -1,0 +1,10 @@
+{"documents":[
+{"id":"1","sentiment":"positive","confidenceScores":{"positive":0.99,"neutral":0.0,"negative":0.0},"sentences":[
+    {"sentiment":"positive","confidenceScores":
+    {"positive":0.99,"neutral":0.0,"negative":0.0},"offset":0,"length":29,"text":"The performance was amazing! "},
+    {"sentiment":"neutral","confidenceScores":
+    {"positive":0.19,"neutral":0.47,"negative":0.34},"offset":29,"length":34,"text":"The sound could have been clearer."}],"warnings":[]},
+{"id":"2","sentiment":"negative","confidenceScores":{"positive":0.0,"neutral":0.01,"negative":0.98},"sentences":[
+    {"sentiment":"negative","confidenceScores":{"positive":0.0,"neutral":0.01,"negative":0.99},"offset":0,"length":40,"text":"The food and service were unacceptable. "},
+    {"sentiment":"negative","confidenceScores":{"positive":0.0,"neutral":0.02,"negative":0.98},"offset":40,"length":63,"text":"While the host was nice, the waiter was rude and food was cold."}],
+    "warnings":[]}],"errors":[],"modelVersion":"2022-11-01"}
