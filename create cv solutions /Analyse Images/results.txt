@@ -1,0 +1,14 @@
+Image analysis results:
+ Caption:
+   'a cat with its paw up', Confidence 0.7045
+ Tags:
+   '{'values': [{'name': 'mammal', 'confidence': 0.998894214630127}, {'name': 'animal', 'confidence': 0.998255729675293}, {'name': 'cat', 'confidence': 0.9980188608169556}, {'name': 'domestic cat', 'confidence': 0.9944339990615845}, {'name': 'small to medium-sized cats', 'confidence': 0.9822847843170166}, {'name': 'whiskers', 'confidence': 0.9695082902908325}, {'name': 'felidae', 'confidence': 0.956742525100708}, {'name': 'domestic short-haired cat', 'confidence': 0.8892927169799805}, {'name': 'malayan cat', 'confidence': 0.8744020462036133}, {'name': 'tabby cat', 'confidence': 0.8545072078704834}, {'name': 'indoor', 'confidence': 0.8145384788513184}, {'name': 'kitten', 'confidence': 0.6293134093284607}]}'
+ Read:
+   Line: 'gettyimages®', Bounding box [{'x': 370, 'y': 252}, {'x': 488, 'y': 252}, {'x': 488, 'y': 274}, {'x': 370, 'y': 275}]
+     Word: 'gettyimages®', Bounding polygon [{'x': 371, 'y': 252}, {'x': 488, 'y': 252}, {'x': 487, 'y': 274}, {'x': 371, 'y': 276}], Confidence 0.4550
+   Line: 'Credit: Kseniya Ovchinnikova', Bounding box [{'x': 371, 'y': 276}, {'x': 560, 'y': 276}, {'x': 560, 'y': 293}, {'x': 371, 'y': 292}]
+     Word: 'Credit:', Bounding polygon [{'x': 372, 'y': 277}, {'x': 414, 'y': 277}, {'x': 414, 'y': 293}, {'x': 371, 'y': 293}], Confidence 0.9940
+     Word: 'Kseniya', Bounding polygon [{'x': 417, 'y': 277}, {'x': 467, 'y': 277}, {'x': 467, 'y': 293}, {'x': 417, 'y': 293}], Confidence 0.9930
+     Word: 'Ovchinnikova', Bounding polygon [{'x': 471, 'y': 277}, {'x': 560, 'y': 277}, {'x': 560, 'y': 293}, {'x': 470, 'y': 293}], Confidence 0.9930
+   Line: '1500448395', Bounding box [{'x': 6, 'y': 387}, {'x': 72, 'y': 387}, {'x': 72, 'y': 398}, {'x': 6, 'y': 398}]
+     Word: '1500448395', Bounding polygon [{'x': 8, 'y': 388}, {'x': 71, 'y': 388}, {'x': 71, 'y': 399}, {'x': 8, 'y': 399}], Confidence 0.9940
