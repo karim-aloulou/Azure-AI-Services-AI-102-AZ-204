@@ -1,0 +1,15 @@
+2 faces detected.
+
+Face number 1
+ - Head Pose (Yaw): -8.1
+ - Head Pose (Pitch): -13.2
+ - Head Pose (Roll): -4.3
+ - Blur: low
+ - Mask: noMask
+
+Face number 2
+ - Head Pose (Yaw): 3.3
+ - Head Pose (Pitch): -18.0
+ - Head Pose (Roll): -9.2
+ - Blur: medium
+ - Mask: noMask
